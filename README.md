@@ -1,11 +1,27 @@
+
 <h1 align="center">
-  Tic-Tac-Toe Multiplayer Game
+  Tic-Tac-Toe Multiplayer Game - Welcome to Open Source Contributions 🍉
 </h1>
 
-<p align="center">
+<p>We appreciate your interest in contributing to this project. Whether you're fixing a bug, adding a feature, or improving documentation, your help is valuable.</p>
+<!-- <p align="center">
  <a href="docs/README.es.md">Spanish</a> | <a href="docs/README.de.md">German</a> | 
 <a href="docs/README.fr.md">French</a>
-</p>
+</p> -->
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Create a new Pull Request.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
